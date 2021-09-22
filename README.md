@@ -11,5 +11,5 @@
 - [x] Create basic address book UI
 - [x] Create view to populate data grid
 - [x] Add button creates new person in address book
-- [x] Delete button erases person from address book
-- [ ] Edit button edits person in address book
+- [x] Delete button erases person's info from address book
+- [ ] Edit button alters person's info in address book
