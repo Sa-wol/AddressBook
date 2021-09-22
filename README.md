@@ -5,7 +5,7 @@
 
 #### Prerequisite:
 - [.NET Core 3.1.X SDK](https://dotnet.microsoft.com/download)
-- [Visual Studio](https://visualstudio.microsoft.com/) with ASP.NET and Web Dev workload OR VS Code
+- [Visual Studio](https://visualstudio.microsoft.com/) with ASP.NET and Web Dev workload
 
 ### Goal of project:
 - [x] Create basic address book UI
